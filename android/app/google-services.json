@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "917456096698",
+    "project_id": "avex-f2cdc",
+    "storage_bucket": "avex-f2cdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917456096698:android:5b2ad3e3d925cc4b582183",
+        "android_client_info": {
+          "package_name": "com.example.avex_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917456096698-jmlk6i5nd537pndsq2ha0fa5rq1m8pcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.avex_app",
+            "certificate_hash": "2ff053ce5317564e3fac77b3b9eaa8d721f77df1"
+          }
+        },
+        {
+          "client_id": "917456096698-2f7kjvhfo9eslmvq5ls51iejkcbmh6q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqm-nzdXnoO5XHQSuaoevIt5e3NupapA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917456096698-0cs7nqbrc8i6cmt34oh10csbepajsj71.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "917456096698-4ih5du8m1l6nmp6gg74nlvgtdstdbase.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.avex"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917456096698:android:c8733bc62bc9ae92582183",
+        "android_client_info": {
+          "package_name": "com.example.test_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917456096698-en5irt9d8n9l5365g61d491m68nemthh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_project",
+            "certificate_hash": "d81fc05d3d135ff199387e87f7b46bb30baa0c0e"
+          }
+        },
+        {
+          "client_id": "917456096698-2f7kjvhfo9eslmvq5ls51iejkcbmh6q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqm-nzdXnoO5XHQSuaoevIt5e3NupapA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917456096698-0cs7nqbrc8i6cmt34oh10csbepajsj71.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "917456096698-4ih5du8m1l6nmp6gg74nlvgtdstdbase.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.avex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
